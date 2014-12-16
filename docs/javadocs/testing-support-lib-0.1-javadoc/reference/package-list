@@ -1,0 +1,8 @@
+android.support.test
+android.support.test.filters
+android.support.test.internal.runner.lifecycle
+android.support.test.internal.runner.tracker
+android.support.test.internal.util
+android.support.test.runner
+android.support.test.runner.lifecycle
+

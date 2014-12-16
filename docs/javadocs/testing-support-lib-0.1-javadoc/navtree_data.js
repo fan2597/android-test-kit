@@ -1,0 +1,20 @@
+var NAVTREE_DATA =
+[ [ "android.support.test", "reference/android/support/test/package-summary.html", [ [ "Classes", null, [ [ "BuildConfig", "reference/android/support/test/BuildConfig.html", null, null ], [ "InstrumentationRegistry", "reference/android/support/test/InstrumentationRegistry.html", null, null ] ]
+, null ] ]
+, null ], [ "android.support.test.filters", "reference/android/support/test/filters/package-summary.html", [ [ "Annotations", null, [ [ "FlakyTest", "reference/android/support/test/filters/FlakyTest.html", null, null ], [ "RequiresDevice", "reference/android/support/test/filters/RequiresDevice.html", null, null ], [ "SdkSuppress", "reference/android/support/test/filters/SdkSuppress.html", null, null ] ]
+, null ] ]
+, null ], [ "android.support.test.internal.runner.lifecycle", "reference/android/support/test/internal/runner/lifecycle/package-summary.html", [ [ "Classes", null, [ [ "ActivityLifecycleMonitorImpl", "reference/android/support/test/internal/runner/lifecycle/ActivityLifecycleMonitorImpl.html", null, null ], [ "ActivityLifecycleMonitorRegistry", "reference/android/support/test/internal/runner/lifecycle/ActivityLifecycleMonitorRegistry.html", null, null ] ]
+, null ] ]
+, null ], [ "android.support.test.internal.runner.tracker", "reference/android/support/test/internal/runner/tracker/package-summary.html", [ [ "Interfaces", null, [ [ "UsageTracker", "reference/android/support/test/internal/runner/tracker/UsageTracker.html", null, null ] ]
+, null ], [ "Classes", null, [ [ "AnalyticsBasedUsageTracker", "reference/android/support/test/internal/runner/tracker/AnalyticsBasedUsageTracker.html", null, null ], [ "AnalyticsBasedUsageTracker.Builder", "reference/android/support/test/internal/runner/tracker/AnalyticsBasedUsageTracker.Builder.html", null, null ], [ "UsageTracker.NoOpUsageTracker", "reference/android/support/test/internal/runner/tracker/UsageTracker.NoOpUsageTracker.html", null, null ], [ "UsageTrackerRegistry", "reference/android/support/test/internal/runner/tracker/UsageTrackerRegistry.html", null, null ] ]
+, null ] ]
+, null ], [ "android.support.test.internal.util", "reference/android/support/test/internal/util/package-summary.html", [ [ "Classes", null, [ [ "AndroidRunnerParams", "reference/android/support/test/internal/util/AndroidRunnerParams.html", null, null ], [ "Checks", "reference/android/support/test/internal/util/Checks.html", null, null ] ]
+, null ] ]
+, null ], [ "android.support.test.runner", "reference/android/support/test/runner/package-summary.html", [ [ "Classes", null, [ [ "AndroidJUnit4", "reference/android/support/test/runner/AndroidJUnit4.html", null, null ], [ "AndroidJUnitRunner", "reference/android/support/test/runner/AndroidJUnitRunner.html", null, null ], [ "MonitoringInstrumentation", "reference/android/support/test/runner/MonitoringInstrumentation.html", null, null ], [ "MonitoringInstrumentation.ActivityFinisher", "reference/android/support/test/runner/MonitoringInstrumentation.ActivityFinisher.html", null, null ] ]
+, null ] ]
+, null ], [ "android.support.test.runner.lifecycle", "reference/android/support/test/runner/lifecycle/package-summary.html", [ [ "Interfaces", null, [ [ "ActivityLifecycleCallback", "reference/android/support/test/runner/lifecycle/ActivityLifecycleCallback.html", null, null ], [ "ActivityLifecycleMonitor", "reference/android/support/test/runner/lifecycle/ActivityLifecycleMonitor.html", null, null ] ]
+, null ], [ "Enums", null, [ [ "Stage", "reference/android/support/test/runner/lifecycle/Stage.html", null, null ] ]
+, null ] ]
+, null ] ]
+
+;
